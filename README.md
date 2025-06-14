@@ -1,10 +1,11 @@
 # Hey, I'm Aldrin Johny!
 
- Second-year Computer Science (AI) student at Adi Shankara Institute of Science and Technology  
- Passionate about Python, AI, and solving real-world problems with code  
- Currently building small projects to learn GitHub, automation, and web scraping  
- Always learning new tech and sharing it  
- Open to internships, part-time tech jobs, and collaboration
+🎓 Computer Science (AI) student at Adi Shankara Institute of Science & Technology  
+💻 Passionate about AI, Python, C programming, and building real-world projects  
+🚀 Currently learning full-stack development and exploring machine learning  
+📍 Kerala, India  
+📬 Available for hire | Let's connect!
+
 
 ###  Languages & Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -23,4 +24,12 @@
 
 ---
 
-Contact me at aldrinjohny@email.com
+
+## 🔗 Connect with Me
+- 📧 Email: aldrinjohny01@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/aldrin-johny-85b895341/
+- 📱 Available for part-time roles, collaborations, and learning opportunities
+
+---
+
+**Thanks for visiting my GitHub!** Let's build something awesome together

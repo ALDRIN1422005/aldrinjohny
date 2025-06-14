@@ -17,9 +17,9 @@
 ---
 
 ###  Projects
-- [ Tech News Scraper](https://github.com/aldrinjohny/tech-news-scraper) – Web scraping Python project
-- [ Quote Generator](https://github.com/aldrinjohny/quote-generator) – Simple HTML+JS project
-- [ Portfolio Website](https://aldrinjohny.github.io/) – Clean static site with GitHub Pages
+- [ Tech News Scraper](https://github.com/aldrinjohny-ai/tech-news-scraper) – Web scraping Python project
+- [ Student Record System ](https://github.com/aldrinjohny-ai/student-record-system) – Simple C program using structures
+- [ Weather app(Python)](https://github.com/aldrinjohny-ai/weather-app-python) – Fetching current weather using API
 
 ---
 

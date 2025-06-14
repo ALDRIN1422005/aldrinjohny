@@ -1,10 +1,14 @@
 # Hey, I'm Aldrin Johny!
 
-🎓 Computer Science (AI) student at Adi Shankara Institute of Science & Technology  
-💻 Passionate about AI, Python, C programming, and building real-world projects  
-🚀 Currently learning full-stack development and exploring machine learning  
-📍 Kerala, India  
-📬 Available for hire | Let's connect!
+ Computer Science (AI) student at Adi Shankara Institute of Science & Technology  
+
+ Passionate about AI, Python, C programming, and building real-world projects  
+
+ Currently learning full-stack development and exploring machine learning  
+
+ Kerala, India  
+
+ Available for hire | Let's connect!
 
 
 ###  Languages & Tools:
@@ -25,10 +29,10 @@
 ---
 
 
-## 🔗 Connect with Me
-- 📧 Email: aldrinjohny01@gmail.com
-- 🌐 LinkedIn: https://www.linkedin.com/in/aldrin-johny-85b895341/
-- 📱 Available for part-time roles, collaborations, and learning opportunities
+##  Connect with Me
+-  Email: aldrinjohny01@gmail.com
+-  LinkedIn: https://www.linkedin.com/in/aldrin-johny-85b895341/
+-  Available for part-time roles, collaborations, and learning opportunities
 
 ---
 
